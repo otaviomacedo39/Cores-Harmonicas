@@ -1,0 +1,25 @@
+@charset "UTF-8";
+body{
+    background-color: #f0f0d8;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.principal{
+    background-color: #666666;
+    border-radius: 5px;
+    text-align: center;
+    color: #b4df37;
+    padding: 20px;
+}
+.secundario{
+    color: #666666;
+    background-image: linear-gradient(to right, #b4df37, transparent, transparent);
+    padding: 5px;
+    border-radius: 10px;
+}
+
+h2{
+    color:#666666 ;
+}
+p{
+    color: #666666;
+}
